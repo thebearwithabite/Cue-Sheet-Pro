@@ -1,0 +1,5 @@
+{
+  "name": "Cue Sheet Pro Episode Report",
+  "description": "A web application to generate detailed podcast episode reports with audio analysis and Audacity tips, powered by Gemini.",
+  "requestFramePermissions": []
+}
